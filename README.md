@@ -4,7 +4,7 @@
 
 <p align="center">
     <Strong>☁️SNS list☁️</Strong><br><br>
-    <a href="https://www.linkedin.com/in/jaeyunha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue"/></a>
+    <a href="https://www.linkedin.com/in/jaeyunha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
     <a href="https://www.facebook.com/profile.php?id=100007772448391" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
     <a href="https://www.instagram.com/jaeyun_ha0317/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
     <br>
@@ -17,7 +17,10 @@
 
 <p align="center">
 Nice to meet you!👐<br>
-I am Jaeyun, an engineer, entreprenuer!<br>
+I am Jaeyun, an engineer, entreprenuer.<br>
+Currently, I am studying Mechanical Engineering and Computer Science at UC Berkeley.<br>
+Starting my own company has been always my dream and I am now trying to learn as many skills as possible.<br>
+My first startup is going to be with building a software platform.<br>
 </p>
 
 <br>
