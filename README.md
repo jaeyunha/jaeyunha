@@ -52,7 +52,7 @@ I am Jaeyun, an engineer, entreprenuer!<br>
 
 <div align=center>
 
-![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=PgmJun&show_icons=true)
+![Jaeyun's github stats](https://github-readme-stats.vercel.app/api?username=jaeyunha&show_icons=true)
 
 
 <!---
