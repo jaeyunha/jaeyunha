@@ -4,7 +4,7 @@
 
 <p align="center">
     <Strong>☁️SNS list☁️</Strong><br><br>
-    <a href="https://www.linkedin.com/in/jaeyunha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/jaeyunha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
     <a href="https://www.facebook.com/profile.php?id=100007772448391" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
     <a href="https://www.instagram.com/jaeyun_ha0317/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
     <br>
@@ -31,7 +31,8 @@ My first startup is going to be with building a software platform.<br>
 </p>
 
 <p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> 
     <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=for-the-badge&logo=Ruby on Rails&logoColor=white"> 
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
