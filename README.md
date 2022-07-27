@@ -56,6 +56,9 @@ My first startup is going to be with building a software platform.<br>
 
 ![Jaeyun's github stats](https://github-readme-stats.vercel.app/api?username=jaeyunha&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyunha)](https://github.com/jaeyunha/github-readme-stats)
+
+
 
 <!---
 jaeyunha/jaeyunha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
