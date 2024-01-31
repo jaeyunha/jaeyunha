@@ -45,6 +45,3 @@ Currently, I am building products for the future of humanity.<br>
 
 <div align=center>
 
-![Jaeyun's github stats](https://github-readme-stats.vercel.app/api?username=jaeyunha&show_icons=true&theme=dark#gh-dark-mode-only)
-
-
