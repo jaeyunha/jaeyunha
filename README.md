@@ -17,8 +17,8 @@
 
 <p align="center">
 Nice to meet you!👐<br>
-I am Jaeyun, an engineer, entreprenuer, husband.<br>
-Currently, I am building products for the future of humanity.<br>
+I am Jaeyun, an engineer, entrepreneur, husband.<br>
+Currently building <a href="https://foreverbrowsing.com">foreverbrowsing.com</a> — a browser agent that lives inside your browser natively.<br>
 </p>
 
 <br>
