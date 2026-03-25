@@ -10,7 +10,7 @@
     <br>
     
 <br><br>
-<Strong>📧Email📧</Strong><br>jaeyunha92@gmail.com<br>
+<Strong>📧Email📧</Strong><br>jaeyunha0317@gmail.com<br>
 </p>
 
 <br>
