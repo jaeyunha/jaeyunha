@@ -75,23 +75,42 @@
 
 &nbsp;
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="1000">
 
-. &nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌐 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp; .
+### ˚₊‧ main project ‧₊˚
 
-</div>
+**[foreverbrowsing.com](https://foreverbrowsing.com)** — a browser agent that lives natively inside your browser
+
+</td>
+</tr>
+</table>
 
 &nbsp;
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="left" width="500">
 
-### ˚₊‧ building ‧₊˚
+### ˚₊‧ recently shipped ‧₊˚
 
-[![ralph-to-ralph](https://github-readme-stats.vercel.app/api/pin/?username=namuh-eng&repo=ralph-to-ralph&theme=transparent&title_color=4F8EF7&icon_color=4F8EF7&text_color=888888&border_color=4F8EF7&border_radius=12)](https://github.com/namuh-eng/ralph-to-ralph)
-&nbsp;&nbsp;
-[![ralph-to-ralph-resend-demo](https://github-readme-stats.vercel.app/api/pin/?username=namuh-eng&repo=ralph-to-ralph-resend-demo&theme=transparent&title_color=4F8EF7&icon_color=4F8EF7&text_color=888888&border_color=4F8EF7&border_radius=12)](https://github.com/namuh-eng/ralph-to-ralph-resend-demo)
+**[ralph-to-ralph](https://github.com/namuh-eng/ralph-to-ralph)** &nbsp; ![Shell](https://img.shields.io/badge/Shell-4F8EF7?style=flat-square&logoColor=white) ![stars](https://img.shields.io/github/stars/namuh-eng/ralph-to-ralph?style=flat-square&color=4F8EF7&label=★)
 
-</div>
+Autonomous product cloning loop — give it any URL, it inspects, builds, tests, and deploys a working clone
+
+</td>
+<td align="left" width="500">
+
+&nbsp;
+
+**[ralph-to-ralph-resend-demo](https://github.com/namuh-eng/ralph-to-ralph-resend-demo)** &nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-4F8EF7?style=flat-square&logoColor=white) ![stars](https://img.shields.io/github/stars/namuh-eng/ralph-to-ralph-resend-demo?style=flat-square&color=4F8EF7&label=★)
+
+Demo built with ralph-to-ralph
+
+</td>
+</tr>
+</table>
 
 &nbsp;
 
