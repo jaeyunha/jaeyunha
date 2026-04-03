@@ -77,6 +77,26 @@
 
 <div align="center">
 
+. &nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌐 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp; .
+
+</div>
+
+&nbsp;
+
+<div align="center">
+
+### ˚₊‧ building ‧₊˚
+
+[![ralph-to-ralph](https://github-readme-stats.vercel.app/api/pin/?username=namuh-eng&repo=ralph-to-ralph&theme=transparent&title_color=4F8EF7&icon_color=4F8EF7&text_color=888888&border_color=4F8EF7&border_radius=12)](https://github.com/namuh-eng/ralph-to-ralph)
+&nbsp;&nbsp;
+[![ralph-to-ralph-resend-demo](https://github-readme-stats.vercel.app/api/pin/?username=namuh-eng&repo=ralph-to-ralph-resend-demo&theme=transparent&title_color=4F8EF7&icon_color=4F8EF7&text_color=888888&border_color=4F8EF7&border_radius=12)](https://github.com/namuh-eng/ralph-to-ralph-resend-demo)
+
+</div>
+
+&nbsp;
+
+<div align="center">
+
 ### ˚₊‧ reach me ‧₊˚
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EEF4FF?style=flat-square&logo=linkedin&logoColor=4F8EF7)](https://linkedin.com/in/jaeyunha)
