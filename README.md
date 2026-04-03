@@ -1,38 +1,120 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Jaeyun's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+<div align="center">
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=40&duration=4000&pause=9999999&color=4F8EF7&center=true&vCenter=true&width=300&height=60&lines=jaeyun+ha" alt="jaeyun ha" />
 
-<p align="center">
-    <Strong>☁️SNS list☁️</Strong><br><br>
-    <a href="https://www.linkedin.com/in/jaeyunha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-    <a href="https://www.instagram.com/jaeyun_ha0317/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-    <a href="https://x.com/jaeyun_ha" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=X&logoColor=white"/></a>
-    <br>
-    
-<br><br>
-<Strong>📧Email📧</Strong><br>jaeyunha0317@gmail.com<br>
-</p>
+<br/>
 
-<br>
+*an engineer,*
 
-<p align="center">
-Nice to meet you!👐<br>
-I am Jaeyun, an engineer, entrepreneur, husband.<br>
-Currently building <a href="https://foreverbrowsing.com">foreverbrowsing.com</a> — a browser agent that lives inside your browser natively.<br>
-</p>
+*building agents that live inside your browser,*
 
-<br>
+*for Ever*
 
-<p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
-</p>
+₊✩‧₊˚⚡˚₊✩‧₊
 
-<p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
-    <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white">
-</p><br>
+<br/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=15&duration=2000&pause=800&color=4F8EF7&center=true&vCenter=true&width=300&lines=Building...;Shipping...;Iterating...;Deploying...;Debugging...;Thinking...;Brewing+coffee...;Vibing...;Compiling...;Exploring...;Tinkering...;Dreaming...;Crafting...;Connecting...;Launching..." alt="typing svg" />
 
-<div align=center>
+</div>
 
+&nbsp;
+
+<div align="center">
+
+. &nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌐 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp; .
+
+</div>
+
+&nbsp;
+
+<table align="center">
+<tr>
+<td align="center" width="500">
+
+### ˚₊‧ currently... ‧₊˚
+
+`building` ~ [foreverbrowsing.com](https://foreverbrowsing.com) — a browser agent that lives natively in your browser
+
+`thinking` ~ agents ✦ autonomy ✦ the future of computing
+
+`loving` ~ shipping things ✦ being a husband ✦ good coffee
+
+`role` ~ engineer ✦ entrepreneur ✦ human
+
+</td>
+<td align="center" width="500">
+
+<details>
+<summary>&nbsp; ₊˚⊹ <b>find me</b> ⊹˚₊ &nbsp; <i>(click me~)</i></summary>
+
+<br/>
+
+| | |
+|---|---|
+| 💼 | [linkedin.com/in/jaeyunha](https://linkedin.com/in/jaeyunha) |
+| 🐦 | [@jaeyun_ha](https://x.com/jaeyun_ha) |
+| 📸 | [@jaeyun_ha0317](https://instagram.com/jaeyun_ha0317) |
+| 📧 | jaeyunha0317@gmail.com |
+
+*every tool is a door* ₍ᐢ. .ᐢ₎
+
+</details>
+
+</td>
+</tr>
+</table>
+
+&nbsp;
+
+<div align="center">
+
+. &nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌐 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp; .
+
+</div>
+
+&nbsp;
+
+<div align="center">
+
+### ˚₊‧ reach me ‧₊˚
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EEF4FF?style=flat-square&logo=linkedin&logoColor=4F8EF7)](https://linkedin.com/in/jaeyunha)
+&nbsp;&nbsp;
+[![X](https://img.shields.io/badge/@jaeyun__ha-EEF4FF?style=flat-square&logo=x&logoColor=4F8EF7)](https://x.com/jaeyun_ha)
+&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-EEF4FF?style=flat-square&logo=instagram&logoColor=4F8EF7)](https://instagram.com/jaeyun_ha0317)
+
+</div>
+
+&nbsp;
+
+<div align="center">
+
+. &nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌐 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp; .
+
+</div>
+
+&nbsp;
+
+<div align="center">
+
+```
+$ git log --oneline --jaeyun
+a3f1b2c init: engineer, entrepreneur, husband
+9e8d7f6 feat: build agents that live in your browser
+c2b4a1e chore: keep shipping, keep growing
+
+$ jaeyun --status
+✦ compiling...
+✦ building the future of browsing...
+✦ build successful ♡
+```
+
+₊✩‧₊˚⚡˚₊✩‧₊
+
+<br/>
+
+![visitors](https://komarev.com/ghpvc/?username=jaeyunha&color=4F8EF7&style=flat-square&label=✧+visitors+✧)
+
+</div>
