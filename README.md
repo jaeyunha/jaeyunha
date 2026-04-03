@@ -81,6 +81,8 @@
 
 ### ˚₊‧ main project ‧₊˚
 
+**[namuh.co](https://namuh.co)** — the company
+
 **[foreverbrowsing.com](https://foreverbrowsing.com)** — a browser agent that lives natively inside your browser
 
 </td>
