@@ -52,10 +52,10 @@
 
 | | |
 |---|---|
-| <img src="https://cdn.simpleicons.org/linkedin/4F8EF7" width="20"/> | [linkedin.com/in/jaeyunha](https://linkedin.com/in/jaeyunha) |
-| <img src="https://cdn.simpleicons.org/x/4F8EF7" width="20"/> | [@jaeyun_ha](https://x.com/jaeyun_ha) |
-| <img src="https://cdn.simpleicons.org/instagram/4F8EF7" width="20"/> | [@jaeyun_ha0317](https://instagram.com/jaeyun_ha0317) |
-| <img src="https://cdn.simpleicons.org/gmail/4F8EF7" width="20"/> | jaeyunha0317@gmail.com |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaeyunha) | [linkedin.com/in/jaeyunha](https://linkedin.com/in/jaeyunha) |
+| [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jaeyun_ha) | [@jaeyun_ha](https://x.com/jaeyun_ha) |
+| [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/jaeyun_ha0317) | [@jaeyun_ha0317](https://instagram.com/jaeyun_ha0317) |
+| [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jaeyunha0317@gmail.com) | jaeyunha0317@gmail.com |
 
 *every tool is a door* ₍ᐢ. .ᐢ₎
 
