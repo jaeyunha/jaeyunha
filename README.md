@@ -115,6 +115,8 @@ $ jaeyun --status
 
 <br/>
 
+[![guestbook](https://img.shields.io/badge/sign%20my%20guestbook%20₍ᐢ.%20.ᐢ₎-EEF4FF?style=flat-square&logoColor=4F8EF7)](https://github.com/jaeyunha/jaeyunha/issues/1)
+&nbsp;&nbsp;
 ![visitors](https://komarev.com/ghpvc/?username=jaeyunha&color=4F8EF7&style=flat-square&label=✧+visitors+✧)
 
 </div>
